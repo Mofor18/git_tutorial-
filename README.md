@@ -1,6 +1,6 @@
-# git tutorials
+# Git Tutorials
 
-# learning git_tutorials
+# Learning Git_tutorials
 
 ## Getting Started
 
